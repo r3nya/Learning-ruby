@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require 'open-uri'
 
 kittens = open('http://placekitten.com/200/300')
